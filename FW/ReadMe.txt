@@ -1,0 +1,1 @@
+To Open .sfit file, open up CurveFit from Apps in Matlab first. Next brows .sfit through Load Session

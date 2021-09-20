@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=3V3 Pin=P1-2
+Removed Pin From Net: NetName=GND Pin=P1-3
+Change Component Footprint: Designator=P1 Old Footprint=SLIN-GRPB031VWVN-RC_V New Footprint=UDPI
+Change Component Comment : Designator=P1 Old Comment=Programming Port New Comment=UDPI_PO_Jig
+Change Managed Component Library Link : Designator=P1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=0F386D45-9544-4D48-B896-C3C9A30D7AF6 New ItemGUID= Old RevisionGUID=5A7A2999-77CD-42B1-8DD9-9083926F0B96 New RevisionGUID=
+Change component parameters: Designator = "R6" ("R6"); Footprint = "RESC1005X40X25NL05T10"; UniqueID = "\YMVSWHPI" ("\YMVSWHPI")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0402JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P1" ("P1"); Footprint = "SLIN-GRPB031VWVN-RC_V"; UniqueID = "\EYATGTYT" ("\EYATGTYT")

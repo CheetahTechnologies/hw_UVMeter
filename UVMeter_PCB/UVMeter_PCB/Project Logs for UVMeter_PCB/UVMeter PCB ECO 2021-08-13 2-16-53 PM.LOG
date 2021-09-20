@@ -1,0 +1,16 @@
+Added Component: Designator=D1(LED BLUE CLEAR [0603])
+Add component (AddParameter): Name = "Datasheet"; Value = "https://katalog.we-online.de/led/datasheet/150060BS75000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DK PN"; Value = "754-2034-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF PN"; Value = "APHD1608LQBC/D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "732-4966-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC1005X40X25NL05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=D1-2
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R6-2
+Added Net: Name=NetD1_1

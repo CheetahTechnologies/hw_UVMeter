@@ -1,0 +1,3 @@
+Added Component: Designator=R6(RESC1005X40X25NL05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402JR-070RL"; VariantName = "[No Variations]"

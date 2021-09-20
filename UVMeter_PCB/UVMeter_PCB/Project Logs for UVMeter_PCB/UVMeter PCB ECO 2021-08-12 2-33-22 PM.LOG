@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=GND Pin=R1-1
+Removed Pin From Net: NetName=NetR1_2 Pin=R1-2
+Change Component Footprint: Designator=R2 Old Footprint=FP-CRCW0402-e3-IPC_A New Footprint=RESC1005X40X25NL05T10
+Change Component Footprint: Designator=R3 Old Footprint=FP-CRCW0402-e3-IPC_A New Footprint=RESC1005X40X25NL05T10
+Change Component Footprint: Designator=R4 Old Footprint=FP-CRCW0402-e3-IPC_A New Footprint=RESC1005X40X25NL05T10
+Change Component Footprint: Designator=R5 Old Footprint=FP-CRCW0402-e3-IPC_A New Footprint=RESC1005X40X25NL05T10
+Change Component Comment : Designator=R6 Old Comment=RC0402JR-070RL New Comment=
+Change Component Designator: OldDesignator=R6 NewDesignator=R1
+Change Managed Component Library Link : Designator=R2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=BDA2E957-10DB-485F-B3FD-64C490B653D8 New ItemGUID=BA82B1DB-3903-48AB-BE6C-7B43F7C4B2A3 Old RevisionGUID=C3FF2239-4EF0-46DA-949D-564E7268DB70 New RevisionGUID=CE7A1A62-0A8C-40B2-AE66-1FCF8A173D4A
+Change Managed Component Library Link : Designator=R3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=BDA2E957-10DB-485F-B3FD-64C490B653D8 New ItemGUID=BA82B1DB-3903-48AB-BE6C-7B43F7C4B2A3 Old RevisionGUID=C3FF2239-4EF0-46DA-949D-564E7268DB70 New RevisionGUID=CE7A1A62-0A8C-40B2-AE66-1FCF8A173D4A
+Change Managed Component Library Link : Designator=R4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=BDA2E957-10DB-485F-B3FD-64C490B653D8 New ItemGUID=BA82B1DB-3903-48AB-BE6C-7B43F7C4B2A3 Old RevisionGUID=C3FF2239-4EF0-46DA-949D-564E7268DB70 New RevisionGUID=CE7A1A62-0A8C-40B2-AE66-1FCF8A173D4A
+Change Managed Component Library Link : Designator=R5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=BDA2E957-10DB-485F-B3FD-64C490B653D8 New ItemGUID=BA82B1DB-3903-48AB-BE6C-7B43F7C4B2A3 Old RevisionGUID=C3FF2239-4EF0-46DA-949D-564E7268DB70 New RevisionGUID=CE7A1A62-0A8C-40B2-AE66-1FCF8A173D4A
+Change component parameters: Designator = "R6" ("R1"); Footprint = "RESC1005X40X25NL05T10"; UniqueID = "\OXFKNFPU" ("\OXFKNFPU")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0402JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5.1K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "FP-CRCW0402-e3-IPC_A"; UniqueID = "\BZWLJRXB" ("\BZWLJRXB")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0402JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ".1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "FP-CRCW0402-e3-IPC_A"; UniqueID = "\KATFYOWE" ("\KATFYOWE")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0402JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ".1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "FP-CRCW0402-e3-IPC_A"; UniqueID = "\OBEMVIKF" ("\OBEMVIKF")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0402JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ".1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3.3K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "FP-CRCW0402-e3-IPC_A"; UniqueID = "\RRHBFNNT" ("\RRHBFNNT")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "RC0402JR-070RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2

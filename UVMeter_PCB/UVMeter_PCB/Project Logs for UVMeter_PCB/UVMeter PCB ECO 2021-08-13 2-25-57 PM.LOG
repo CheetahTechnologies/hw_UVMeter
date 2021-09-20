@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=3V3 Pin=D1-2
+Added Component: Designator=D1(ROHM-SML-P11MT_V)
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/16201/sml-p11mtt86-16201197.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 2.0, 08/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dimension"; Value = "1x0.6x0.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward (Drive) Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "1.9V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Intensity"; Value = "2.1mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Type"; Value = "Clear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Rohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.rohm.com/web/global/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 0.6 x 1 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SML-P11MT"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R6-2
+Added Net: Name=NetD1_2
