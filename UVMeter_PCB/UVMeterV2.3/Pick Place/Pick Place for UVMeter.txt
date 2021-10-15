@@ -1,0 +1,36 @@
+Altium Designer Pick and Place Locations
+D:\UVMtere\UVMeter_PCB\Project Outputs for UVMeter_PCB\Pick Place for UVMeter.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       15-10-21
+Time:       11:07
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment            Layer       Footprint                       Center-X(mil) Center-Y(mil) Rotation Description                                                               
+D1         SML-P11MTT86       TopLayer    ROHM-SML-P11MT_V                92.000mil     188.000mil    90       "LED Green, 54 mW, 20 mA, -40 to 85 degC, 2-Pin SMD, RoHS, Tape and Reel" 
+R6         ""                 TopLayer    RESC1005X40X25NL05T10           90.173mil     273.441mil    270      ""                                                                        
+P1         UDPI_PO_Jig        TopLayer    UDPI                            456.693mil    338.583mil    90       ""                                                                        
+U5         LMV321LILT         TopLayer    FP-SOT23-5-GAMS1812131437-IPC_C 226.000mil    84.000mil     180      "IC OPAMP GP 1 CIRCUIT SOT23-5"                                           
+U4         ATTINY402-SSN      TopLayer    FP-C04-057-SWB-IPC_B            250.000mil    274.000mil    180      "20MHZ 4KB SOIC8 IND 105C GREEN T"                                        
+U3         CH340N             BottomLayer CH340N                          274.000mil    278.000mil    0        "USB to serial chip"                                                      
+U2         RT9193-33GB        BottomLayer DBV0005A_M                      292.000mil    86.000mil     0        "IC REG LINEAR 3.3V 300MA SOT23-5"                                        
+U1         "USB C - Plug A06" TopLayer    USB_C_-_Plug_A06                31.307mil     196.850mil    270      ""                                                                        
+S1         GUVA-UV            BottomLayer GUVA-S12SD                      472.441mil    196.850mil    270      ""                                                                        
+R5         ""                 TopLayer    RESC1005X40X25NL05T10           312.000mil    92.000mil     270      ""                                                                        
+R4         ""                 TopLayer    RESC1005X40X25NL05T10           344.000mil    48.000mil     90       ""                                                                        
+R3         ""                 TopLayer    RESC1005X40X25NL05T10           378.000mil    82.000mil     90       ""                                                                        
+R2         ""                 BottomLayer RESC1005X40X25NL05T10           166.000mil    140.000mil    180      ""                                                                        
+R1         ""                 BottomLayer RESC1005X40X25NL05T10           100.000mil    280.000mil    270      ""                                                                        
+C6         ""                 TopLayer    CAPC1005X55X25ML05T10           118.000mil    66.000mil     270      ""                                                                        
+C5         ""                 TopLayer    CAPC1005X55X25ML05T10           446.000mil    128.000mil    180      ""                                                                        
+C4         ""                 TopLayer    CAPC1005X55X25ML05T10           346.000mil    146.000mil    0        ""                                                                        
+C3         ""                 BottomLayer CAPC1005X55X25ML05T10           444.000mil    126.000mil    180      ""                                                                        
+C2         ""                 BottomLayer FP-CL10-IPC_C                   398.000mil    48.000mil     270      "CAP CER 10UF 6.3V X5R 0603"                                              
+C1         ""                 BottomLayer CAPC2014X150X70NL20             132.000mil    74.000mil     180      "CAP TANT 22UF 20% 6.3V 0805"                                             
+fid3       FIDUCIAL           TopLayer    FIDUCIAL                        492.000mil    264.000mil    90       FIDUCIAL                                                                  
+fid1       FIDUCIAL           TopLayer    FIDUCIAL                        116.000mil    378.000mil    90       FIDUCIAL                                                                  
+fid2       FIDUCIAL           TopLayer    FIDUCIAL                        168.000mil    16.000mil     90       FIDUCIAL                                                                  

@@ -1,0 +1,23 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [UVMeter_PCB.PrjPcb]
+   Generated File[UVMeter.GTO]
+   Generated File[UVMeter.GTP]
+   Generated File[UVMeter.GTS]
+   Generated File[UVMeter.GTL]
+   Generated File[UVMeter.GBL]
+   Generated File[UVMeter.GBS]
+   Generated File[UVMeter.GBP]
+   Generated File[UVMeter.GBO]
+   Generated File[UVMeter.GKO]
+   Generated File[UVMeter.GD1]
+   Generated File[UVMeter.GG1]
+   Generated File[UVMeter.RUL]
+   Generated File[UVMeter.EXTREP]
+   Generated File[UVMeter.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 11:04:34 AM On 2021-10-15

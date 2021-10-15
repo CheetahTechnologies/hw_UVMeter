@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [UVMeter_PCB.PrjPcb]
+   Generated File[UVMeter.TXT]
+   Generated File[UVMeter.LDP]
+   Generated File[UVMeter.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:05:26 AM On 2021-10-15

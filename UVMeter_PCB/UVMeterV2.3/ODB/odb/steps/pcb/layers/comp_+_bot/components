@@ -1,0 +1,122 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 2 6.9596 7.0612 180 N U3 CH340N ;0=1,1=1.7500
+PRP MP ''
+PRP Package 'SOP8'
+TOP 0 4.20960042 5.1562 90 N 14 0 U3-1
+TOP 1 4.20960042 6.4262 90 N 13 0 U3-2
+TOP 2 4.20960042 7.6962 90 N 12 5 U3-3
+TOP 3 4.20960042 8.9662 90 N 0 3 U3-4
+TOP 4 9.70959958 8.9662 90 N 15 1 U3-5
+TOP 5 9.70959958 7.6962 90 N 11 0 U3-6
+TOP 6 9.70959958 6.4262 90 N 7 0 U3-7
+TOP 7 9.70959958 5.1562 90 N 15 0 U3-8
+#
+# CMP 1
+CMP 3 7.4168 2.1844 180 N U2 RT9193-33GB ;0=1,1=1.4500
+PRP Accuracy(_) '3'
+PRP Code_JEDEC 'MO-178'
+PRP ComponentLink1Description 'Manufacturer URL'
+PRP ComponentLink1URL 'http://www.ti.com/'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=TPS76901-HT&fileType=pdf'
+PRP ComponentLink3Description 'Package Specification'
+PRP ComponentLink3URL 'http://www.ti.com/litv/pdf/mpds018i'
+PRP ComponentLink4Description 'URL Link1'
+PRP ComponentLink4URL 'Samples URL:http://www.ti.com/product/tps76901-ht#samples'
+PRP DatasheetVersion 'SLVS959C'
+PRP Eco-Plan 'Green (RoHS & no Sb/Br)'
+PRP Iout(Max)(A) '0.1'
+PRP Iq(Typ)(mA) '0.3'
+PRP Manufacturer 'Texas Instruments'
+PRP MK 'RT9193-33GB'
+PRP Mounting_Technology 'Surface Mount'
+PRP PackageDescription '5-Pin Plastic Small Outline, Body 1.60 Ãƒâ€” 2.90 mm, Pitch 0.95 mm'
+PRP PackageReference 'DBV0005A'
+PRP PackageVersion '4073253-4/K'
+PRP PartNumber 'TPS76901HDBVT'
+PRP Rating 'High Temp'
+PRP SubFamily 'Single Channel LDO'
+PRP Vdo(Typ)(mV) '71'
+PRP Vin(Max)(V) '10'
+PRP Vin(Min)(V) '5'
+PRP Vout_Adj(Max)(V) '4.5'
+PRP Vout_Adj(Min)(V) '1.2'
+TOP 0 5.94179914 1.23439936 90 N 10 2 U2-1
+TOP 1 5.94179914 2.1844 90 N 12 6 U2-2
+TOP 2 5.94179914 3.1343981 90 N 3 1 U2-3
+TOP 3 8.89179832 3.1343981 90 N 9 0 U2-4
+TOP 4 8.89179832 1.23439936 90 N 15 2 U2-5
+#
+# CMP 2
+CMP 8 11.99999886 5.00000016 90 N S1 GUVA-UV ;0=1,1=0.0000
+TOP 0 11.99999886 5.00000016 180 N 12 3 S1-1
+TOP 1 11.99999886 5.00000016 180 N 4 0 S1-2
+#
+# CMP 3
+CMP 9 4.2164 3.556 0 N R2 empty_part_name ;0=1,1=0.4000
+PRP Manufacturer 'Yageo / Phycomp'
+PRP Part_Number 'RC0402JR-070RL'
+PRP Tolerance '5%'
+PRP Value '1K'
+TOP 0 4.64140042 3.556 270 N 3 0 R2-1
+TOP 1 3.79139958 3.556 270 N 10 1 R2-2
+#
+# CMP 4
+CMP 9 2.54 7.112 90 N R1 empty_part_name ;0=1,1=0.4000
+PRP Manufacturer 'Yageo / Phycomp'
+PRP Part_Number 'RC0402JR-070RL'
+PRP Tolerance '5%'
+PRP Value '5.1K'
+TOP 0 2.54 7.53700042 180 N 12 2 R1-1
+TOP 1 2.54 6.68699958 180 N 8 0 R1-2
+#
+# CMP 5
+CMP 0 11.2776 3.2004 0 N C3 empty_part_name ;0=1,1=0.5500
+PRP Manufacturer 'Murata'
+PRP MK 'JMK107BJ106MA-T'
+PRP Part_Number 'GRM155R71H332KA01D'
+PRP Value '100nF'
+TOP 0 11.76759902 3.2004 270 N 12 7 C3-1
+TOP 1 10.78759844 3.2004 270 N 15 3 C3-2
+#
+# CMP 6
+CMP 6 10.1092 1.2192 90 N C2 empty_part_name ;0=1,1=0.0000
+PRP Capacitance '10uF'
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP Contact_Plating 'Tin'
+PRP Depth '0.8mm'
+PRP Dielectric 'X5R'
+PRP Height '0.8mm'
+PRP Length '1.6mm'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Radiation_Hardening 'No'
+PRP Thickness '0.035inch'
+PRP Tolerance '20%'
+PRP Voltage '6.3V'
+PRP Voltage_Rating '6.3V'
+PRP Width '0.031inch'
+TOP 0 10.1092 1.84619392 90 N 15 4 C2-1
+TOP 1 10.1092 0.59220608 90 N 12 8 C2-2
+#
+# CMP 7
+CMP 1 3.3528 1.8796 0 N C1 empty_part_name ;0=1,1=1.5000
+PRP Manufacturer 'AVX Interconnect / Elco'
+PRP MK 'TMCP0J226MTRF'
+PRP Part_Number 'TACR226M006XTA'
+PRP Value '22uF'
+TOP 0 4.17779962 1.8796 270 N 10 0 C1-1
+TOP 1 2.52780038 1.8796 270 N 12 4 C1-2
+#

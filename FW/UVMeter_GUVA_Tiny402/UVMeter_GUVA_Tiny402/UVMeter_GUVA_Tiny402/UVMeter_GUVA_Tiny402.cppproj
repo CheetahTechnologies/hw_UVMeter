@@ -41,7 +41,7 @@
       </framework-data>
     </AsfFrameworkConfig>
     <avrtool>com.atmel.avrdbg.tool.powerdebugger</avrtool>
-    <avrtoolserialnumber>J51800002195</avrtoolserialnumber>
+    <avrtoolserialnumber>J50200001157</avrtoolserialnumber>
     <avrdeviceexpectedsignature>0x1E9227</avrdeviceexpectedsignature>
     <avrtoolinterface>UPDI</avrtoolinterface>
     <com_atmel_avrdbg_tool_powerdebugger>
@@ -52,7 +52,7 @@
         <InterfaceName>UPDI</InterfaceName>
       </ToolOptions>
       <ToolType>com.atmel.avrdbg.tool.powerdebugger</ToolType>
-      <ToolNumber>J51800002195</ToolNumber>
+      <ToolNumber>J50200001157</ToolNumber>
       <ToolName>Power Debugger</ToolName>
     </com_atmel_avrdbg_tool_powerdebugger>
     <avrtoolinterfaceclock>750000</avrtoolinterfaceclock>
